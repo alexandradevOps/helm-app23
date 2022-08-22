@@ -3,12 +3,12 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-10T17:36:29.891952015Z"
+    created: "2022-08-22T09:00:41.16230894Z"
     description: A Helm chart for Kubernetes
-    digest: 8bcd322617f11316e026bf83f49ccc69f3ee2dbdecb99060662057ac6c9e71bd
+    digest: 00b13ad84c34ee70ebbfd9148dc5b5a8a8fd20b01f3c53d36c21927656101c6f
     name: myapp
     type: application
     urls:
-    - https://landmaktechnology.github.io/helm-app23/myapp-0.1.0.tgz
+    - myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-10T17:36:29.891136245Z"
+generated: "2022-08-22T09:00:41.161117547Z"
